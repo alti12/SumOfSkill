@@ -8,7 +8,10 @@ If you haven't installed pip and pandas yet install them:
     <li> curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py </li>
     <li> python get-pip.py </li>
     <li> pip3 install pandas </li>
+    </ol>
     on linux:
+    <ol>
     <li> sudo apt install python3-pip </li>
     <li> pip3 install pandas </li>
     <li> pip3 install xlrd </li>
+    </ol>
